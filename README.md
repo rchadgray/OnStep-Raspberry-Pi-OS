@@ -7,5 +7,6 @@ The default user and password is still pi and raspberry.  You burn this image to
 https://sourceforge.net/projects/win32diskimager/
 
 I have placed the IMG file that you can burn to your Raspberry Pi on my website for now.
+https://graydigitalarts.com/OnStepRaspbian/OnStep4.24.IMG
 
 I need to research the GitHub Large File storage since it is 7GB.
